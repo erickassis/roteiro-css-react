@@ -9,7 +9,6 @@ const App = () => {
   return (
     <>
       <header className="topo">
-        <Topo />
         <Principal />
         <Logo />
         <Navegacao />
